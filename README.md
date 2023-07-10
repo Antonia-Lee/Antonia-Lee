@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antonia-Lee
 - 👀 I’m interested in Cognitive Neuroscience.
-- 🌱 I’m currently learning R Language
-- 💞️ I’m looking to collaborate on nobody
+- 🌱 I’m currently learning R Language.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
